@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Scarlett Johansson",
+    "username": "scarlettj",
+    "password": "password123",
+    "email": "scarlett@example.com",
+    "isEnabled": true
+  },
+  {
+    "id": 2,
+    "name": "Jennifer Lawrence",
+    "username": "jenniferl",
+    "password": "pass456",
+    "email": "jennifer@example.com",
+    "isEnabled": true
+  },
+  {
+    "id": 3,
+    "name": "Margot Robbie",
+    "username": "margotr",
+    "password": "margotpass",
+    "email": "margot@example.com",
+    "isEnabled": false
+  },
+  {
+    "id": 4,
+    "name": "Gal Gadot",
+    "username": "galg",
+    "password": "pass789",
+    "email": "gal@example.com",
+    "isEnabled": true
+  },
+  {
+    "id": 5,
+    "name": "Emma Stone",
+    "username": "emmastone",
+    "password": "stonepass",
+    "email": "emma@example.com",
+    "isEnabled": true
+  },
+  {
+    "id": 6,
+    "name": "Zendaya",
+    "username": "zendayalove",
+    "password": "zendayapass",
+    "email": "zendaya@example.com",
+    "isEnabled": true
+  },
+  {
+    "id": 7,
+    "name": "Alicia Vikander",
+    "username": "aliciav",
+    "password": "aliciapass",
+    "email": "alicia@example.com",
+    "isEnabled": false
+  },
+  {
+    "id": 8,
+    "name": "Brie Larson",
+    "username": "briel",
+    "password": "briepass",
+    "email": "brie@example.com",
+    "isEnabled": true
+  },
+  {
+    "id": 9,
+    "name": "Lupita Nyong'o",
+    "username": "lupita_n",
+    "password": "lupitapass",
+    "email": "lupita@example.com",
+    "isEnabled": false
+  },
+  {
+    "id": 10,
+    "name": "Meryl Streep",
+    "username": "meryl",
+    "password": "merylpass",
+    "email": "meryl@example.com",
+    "isEnabled": true
+  },
+  {
+    "id": 11,
+    "name": "Natalie Portman",
+    "username": "nataliep",
+    "password": "nataliepass",
+    "email": "natalie@example.com",
+    "isEnabled": true
+  },
+  {
+    "id": 12,
+    "name": "Cate Blanchett",
+    "username": "cateb",
+    "password": "catepass",
+    "email": "cate@example.com",
+    "isEnabled": true
+  },
+  {
+    "id": 13,
+    "name": "Angelina Jolie",
+    "username": "angelinaj",
+    "password": "angelinapass",
+    "email": "angelina@example.com",
+    "isEnabled": true
+  },
+  {
+    "id": 14,
+    "name": "Charlize Theron",
+    "username": "charlizet",
+    "password": "charlizepass",
+    "email": "charlize@example.com",
+    "isEnabled": true
+  },
+  {
+    "id": 15,
+    "name": "Margaret Qualley",
+    "username": "margaretq",
+    "password": "margaretpass",
+    "email": "margaret@example.com",
+    "isEnabled": false
+  },
+  {
+    "id": 16,
+    "name": "Lily James",
+    "username": "lilyj",
+    "password": "lilypass",
+    "email": "lily@example.com",
+    "isEnabled": true
+  },
+  {
+    "id": 17,
+    "name": "Dakota Johnson",
+    "username": "dakotaj",
+    "password": "dakotapass",
+    "email": "dakota@example.com",
+    "isEnabled": true
+  },
+  {
+    "id": 18,
+    "name": "Zoe Saldana",
+    "username": "zoes",
+    "password": "zoepass",
+    "email": "zoe@example.com",
+    "isEnabled": true
+  },
+  {
+    "id": 19,
+    "name": "Kate Winslet",
+    "username": "katew",
+    "password": "katepass",
+    "email": "kate@example.com",
+    "isEnabled": true
+  },
+  {
+    "id": 20,
+    "name": "Emma Watson",
+    "username": "emmaw",
+    "password": "emmawpass",
+    "email": "emma@example.com",
+    "isEnabled": true
+  }
+]
